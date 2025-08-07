@@ -13,3 +13,4 @@ Use ApplicationClaim to add new microservices:
 
 - (Services will be listed here as they are added)
 - billing-service (python/fastapi)
+- billing-service (python/fastapi)
